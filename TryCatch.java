@@ -1,5 +1,5 @@
 import java.util.*;
-public class tryCatch {
+public class TryCatch {
     public static void main(String[] args) {
         String[] letras = {"A", "B", "C", "D", "E", "F", "G"};
         Scanner teclado = new Scanner(System.in);
