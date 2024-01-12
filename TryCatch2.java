@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class tryCatch2 {
+public class TryCatch2 {
     public static void verificarIdade(short idade) {
         if (idade >= 18) {
             System.out.println("Acesso garantido.");
